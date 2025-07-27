@@ -83,7 +83,7 @@ npm run dev
 - Material UI
 
 ## Contributors
-- [Pratham Singh](https://www.github.com/pratham891)
+- [Pranav Jalan](https://www.github.com/PranavJalan230)
 
 ## Contact
-For inquiries or support, please contact [prathambsingh891@gmail.com](mailto:prathambsingh891@gmail.com)
+For inquiries or support, please contact [jalan.pranav2@gmail.com](mailto:jalan.pranav2@gmail.com)
